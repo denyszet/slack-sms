@@ -9,4 +9,4 @@ To start using the application:
 
 Watch how-to youtube video:
 
-[![Watch how-to video](https://i9.ytimg.com/vi/0xAdKltF7K0/mq1.jpg?sqp=CNj_8Y4G&rs=AOn4CLAKwsTeuzhXd2pxNNzNOC5bTd1SIw)](https://youtu.be/0xAdKltF7K0)
+[Watch how-to video](https://youtu.be/0xAdKltF7K0)
